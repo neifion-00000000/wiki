@@ -83,9 +83,9 @@
 
     - **OpenSSL 3.0 is not supported.**
 
-    - Find the 64bit version by finding the latest 1.0.x or 1.1.x Win64 OpenSSL that is NOT the "light" version. (Example: Win64 OpenSSL v1.1.1g)
+    - Find the 64bit version by finding the latest **1.0.x or 1.1.x** Win64 OpenSSL that is NOT the "light" version. (Example: **Win64 OpenSSL v1.1.1g**)
     
-    - Find the 32bit version by finding the latest 1.0.x or 1.1.x Win32 OpenSSL that is NOT the "light" version. (Example: Win32 OpenSSL v1.1.1g)
+    - Find the 32bit version by finding the latest **1.0.x or 1.1.x** Win32 OpenSSL that is NOT the "light" version. (Example: **Win32 OpenSSL v1.1.1g**)
 
     - *Note #1: If you get a "Missing Microsoft Visual C++ .... Redistributable" error message while installing OpenSSL,*
       *Download the [Microsoft Visual C++ 2017/2019/2022 Redistributable Package (x64) (Direct Download)](https://aka.ms/vs/17/release/vc_redist.x64.exe) (1.7MB Installer) and install it.*
